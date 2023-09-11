@@ -1,0 +1,80 @@
+<mxfile host="Electron" modified="2023-08-23T15:51:13.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="w8EDhDm81bs6_HPlUtOY" version="21.6.8" type="device">
+  <diagram name="第 1 页" id="gi4KJW84IDohBwd1nFdY">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="prfhwrwzsq4mLhs9yBWU-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="prfhwrwzsq4mLhs9yBWU-1" target="prfhwrwzsq4mLhs9yBWU-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prfhwrwzsq4mLhs9yBWU-1" value="关中断" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="132.5" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prfhwrwzsq4mLhs9yBWU-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="prfhwrwzsq4mLhs9yBWU-2" target="prfhwrwzsq4mLhs9yBWU-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="182.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="prfhwrwzsq4mLhs9yBWU-37">
+          <mxGeometry x="-0.196" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="prfhwrwzsq4mLhs9yBWU-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="prfhwrwzsq4mLhs9yBWU-2" target="prfhwrwzsq4mLhs9yBWU-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-2" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="prfhwrwzsq4mLhs9yBWU-42">
+          <mxGeometry x="-0.1275" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="prfhwrwzsq4mLhs9yBWU-2" value="判断队列中是否还有空间或者是否允许进行覆盖" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="70" y="120" width="225" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="prfhwrwzsq4mLhs9yBWU-4" value="开中断并返回错误" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="113.75" y="320" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="prfhwrwzsq4mLhs9yBWU-41" target="6JNQ84hLrSA7dQ08qZ2h-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prfhwrwzsq4mLhs9yBWU-41" value="uxMessagesWaiting++" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="385.62" y="140" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6JNQ84hLrSA7dQ08qZ2h-3" target="6JNQ84hLrSA7dQ08qZ2h-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JNQ84hLrSA7dQ08qZ2h-6">
+          <mxGeometry x="-0.1553" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6JNQ84hLrSA7dQ08qZ2h-3" target="6JNQ84hLrSA7dQ08qZ2h-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6JNQ84hLrSA7dQ08qZ2h-12">
+          <mxGeometry x="-0.1849" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-3" value="判断接收链表是否为空" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="203.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6JNQ84hLrSA7dQ08qZ2h-5" target="6JNQ84hLrSA7dQ08qZ2h-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-5" value="将任务移入ReadyList" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="411.875" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6JNQ84hLrSA7dQ08qZ2h-11" target="6JNQ84hLrSA7dQ08qZ2h-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-11" value="检查处理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="695.63" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JNQ84hLrSA7dQ08qZ2h-14" value="开中断，返回pdPASS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="573.75" y="585" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

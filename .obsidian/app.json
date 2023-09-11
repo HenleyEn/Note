@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "readableLineLength": false,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./images",
+  "alwaysUpdateLinks": true
+}

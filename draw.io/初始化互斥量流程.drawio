@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2023-08-29T16:17:48.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="mKGA_CRwMJ2l-xVdk9u4" version="21.6.8" type="device">
+  <diagram name="第 1 页" id="V7XUMR9VSsDSSoY-HrdD">
+    <mxGraphModel dx="875" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NfqnXl31VU3QwW5J81qI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfqnXl31VU3QwW5J81qI-1" target="NfqnXl31VU3QwW5J81qI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfqnXl31VU3QwW5J81qI-4" target="NfqnXl31VU3QwW5J81qI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-4" value="设置长度为1，大小为0，" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfqnXl31VU3QwW5J81qI-8" target="NfqnXl31VU3QwW5J81qI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-8" value="创建队列，类型为mutex" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfqnXl31VU3QwW5J81qI-10" target="NfqnXl31VU3QwW5J81qI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-10" value="初始化mutex" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-12" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-16" value="创建互斥锁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="158" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-17" value="初始化互斥锁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="158" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfqnXl31VU3QwW5J81qI-18" target="NfqnXl31VU3QwW5J81qI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-18" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="184" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfqnXl31VU3QwW5J81qI-19" target="NfqnXl31VU3QwW5J81qI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-19" value="设置互斥锁所有者为NULL" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="296" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfqnXl31VU3QwW5J81qI-21" target="NfqnXl31VU3QwW5J81qI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-21" value="设置队列类型为mutex" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="386" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NfqnXl31VU3QwW5J81qI-23" target="NfqnXl31VU3QwW5J81qI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-23" value="往队列中发送NULL，确保mutex运行" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="476" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfqnXl31VU3QwW5J81qI-25" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="576" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
