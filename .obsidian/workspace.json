@@ -11,11 +11,9 @@
             "id": "2069a02520703ce2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "01. 零碎知识/20230911_git&vscode.md",
-                "mode": "source",
-                "source": false
+                "file": "00. 工作计划/未命名看板.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 零碎知识/20230911_git&vscode.md",
+                "file": "00. 工作计划/未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 零碎知识/20230911_git&vscode.md",
+                "file": "00. 工作计划/未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 零碎知识/20230911_git&vscode.md"
+                "file": "00. 工作计划/未命名看板.md"
               }
             }
           },
@@ -159,16 +157,16 @@
   },
   "active": "2069a02520703ce2",
   "lastOpenFiles": [
+    "03. FreeRTOS内部机制/04. 互斥量.md",
+    "01. 零碎知识/20230911_git&vscode.md",
     "images/image-20230912170840084.png",
     "images/image-20230912170753049.png",
     "images/image-20230912165752707.png",
     "00. 工作计划/未命名看板.md",
     "01. 零碎知识/20230607_GIT传本地代码到github.md",
-    "01. 零碎知识/20230911_git&vscode.md",
     "images/image-20230911171032527.png",
     "images/image-20230911170644311.png",
     "images/image-20230911170529285.png",
-    "03. FreeRTOS内部机制/04. 互斥量.md",
     "03. FreeRTOS内部机制/05. 事件组.md",
     "02. FreeRTOS/05. 事件组 event group.md",
     "images/互斥量GIve流程.png",
@@ -178,7 +176,6 @@
     "images/image-20230823224726421.png",
     "images/image-20230731155144073.png",
     "images/image-20230731144543987.png",
-    "images/image-20230731141602689.png",
     "draw.io/获取互斥量.drawio",
     "draw.io/初始化互斥量流程.drawio",
     "03. FreeRTOS内部机制/03. 信号量.md",
