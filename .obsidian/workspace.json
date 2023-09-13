@@ -83,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. 工作计划/未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. 工作计划/未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00. 工作计划/未命名看板.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,14 +151,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2069a02520703ce2",
+  "active": "d60fdde3361a0ebf",
   "lastOpenFiles": [
+    "01. 零碎知识/20230913_git_commit规范.md",
+    "00. 工作计划/未命名看板.md",
+    "00. 工作计划/未命名.md",
     "03. FreeRTOS内部机制/04. 互斥量.md",
     "01. 零碎知识/20230911_git&vscode.md",
     "images/image-20230912170840084.png",
     "images/image-20230912170753049.png",
     "images/image-20230912165752707.png",
-    "00. 工作计划/未命名看板.md",
     "01. 零碎知识/20230607_GIT传本地代码到github.md",
     "images/image-20230911171032527.png",
     "images/image-20230911170644311.png",
@@ -203,7 +201,6 @@
     "未命名.canvas",
     "FreeRTOS/images",
     "01. 零碎知识/20230710_mqtt概况.md",
-    "01. 零碎知识/20230627_STM32CubeMX_创建工程.md",
     "Untitled.canvas"
   ]
 }
