@@ -1,0 +1,280 @@
+<mxfile host="Electron" modified="2023-09-17T18:04:25.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="yTQWFLwTmB6u5fuUdoPR" version="21.6.8" type="device">
+  <diagram name="第 1 页" id="2jLeyboqFyv5W4rlKdoD">
+    <mxGraphModel dx="2333" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="trLXYf26ftDSueT9GZZE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-2" target="trLXYf26ftDSueT9GZZE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-3" target="trLXYf26ftDSueT9GZZE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-3" value="获取xTasksWaitingForBits链表" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="205" y="180" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-5" target="trLXYf26ftDSueT9GZZE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-5" value="找到链表xTasksWaitingForBits尾部节点" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="205" y="290" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-7" target="trLXYf26ftDSueT9GZZE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-7" value="挂起调度器" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-9" target="trLXYf26ftDSueT9GZZE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-9" value="初始化移动节点为链表xTasksWaitingForBits头部节点" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-11" target="trLXYf26ftDSueT9GZZE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-23" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="trLXYf26ftDSueT9GZZE-14">
+          <mxGeometry x="-0.1714" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-11" value="判断移动节点是否等于尾部节点" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="235" y="720" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-13" target="trLXYf26ftDSueT9GZZE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-13" value="记录下一个节点位置" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="295" y="890" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-15" target="trLXYf26ftDSueT9GZZE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-15" value="获取链表节点中事件组等待的位" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1010" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-17" target="trLXYf26ftDSueT9GZZE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-17" value="匹配标志位置pdFalse" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1110" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-19" target="trLXYf26ftDSueT9GZZE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-19" value="获取控制位uxControlBits" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1230" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-24" target="trLXYf26ftDSueT9GZZE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-24" value="获取等待位uxBitsWaitedFor" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1350" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-26" target="trLXYf26ftDSueT9GZZE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-30" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="trLXYf26ftDSueT9GZZE-29">
+          <mxGeometry x="-0.077" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-26" target="trLXYf26ftDSueT9GZZE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-39" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="trLXYf26ftDSueT9GZZE-38">
+          <mxGeometry x="-0.0614" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-26" value="判断事件组控制的标志信息（uxControlBits&lt;br&gt;）是否为“逻辑或”关系" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="213.75" y="1480" width="372.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-28" target="trLXYf26ftDSueT9GZZE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="trLXYf26ftDSueT9GZZE-32">
+          <mxGeometry x="-0.1079" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-28" target="trLXYf26ftDSueT9GZZE-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-36" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="trLXYf26ftDSueT9GZZE-35">
+          <mxGeometry x="0.5782" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-28" value="是否所有事件都发生" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1750" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-31" target="trLXYf26ftDSueT9GZZE-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="2060" />
+              <mxPoint x="960" y="2060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-31" value="啥也不干" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-34" target="trLXYf26ftDSueT9GZZE-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-34" value="匹配标志位置pdTrue" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1920" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-37" target="trLXYf26ftDSueT9GZZE-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-42" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="trLXYf26ftDSueT9GZZE-41">
+          <mxGeometry x="-0.0168" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-37" target="trLXYf26ftDSueT9GZZE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-37" value="判断节点中的等待位与事件组的置位是否相同" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1493.75" width="220" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-40" target="trLXYf26ftDSueT9GZZE-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="1950" />
+              <mxPoint x="960" y="1950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-40" value="调试检查" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1757.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-43" target="trLXYf26ftDSueT9GZZE-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="1950" />
+              <mxPoint x="960" y="1950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-43" value="匹配标志位置pdTrue" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-48" target="trLXYf26ftDSueT9GZZE-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-58" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="trLXYf26ftDSueT9GZZE-57">
+          <mxGeometry x="-0.0702" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-48" target="trLXYf26ftDSueT9GZZE-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="2990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-76" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="trLXYf26ftDSueT9GZZE-75">
+          <mxGeometry x="-0.4699" y="-3" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-48" value="判断匹配位是否不等于pdFalse" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2150" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-56" target="trLXYf26ftDSueT9GZZE-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-61" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="trLXYf26ftDSueT9GZZE-60">
+          <mxGeometry x="-0.1514" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-56" target="trLXYf26ftDSueT9GZZE-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-64" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="trLXYf26ftDSueT9GZZE-63">
+          <mxGeometry x="0.4187" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-56" value="判断是否需要进行退出清除" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="2167.5" width="280" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-59" target="trLXYf26ftDSueT9GZZE-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-59" value="调试检查" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-62" target="trLXYf26ftDSueT9GZZE-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-62" value="清除所有事件组等待位" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-65" target="trLXYf26ftDSueT9GZZE-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-65" value="记录下任务状态为事件组位匹配成功" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2560" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-68" target="trLXYf26ftDSueT9GZZE-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-68" value="将任务移出阻塞链表" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2700" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-70" target="trLXYf26ftDSueT9GZZE-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-70" value="将任务加入ReadyList" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2820" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-72" target="trLXYf26ftDSueT9GZZE-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1840" y="2990" />
+              <mxPoint x="1840" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-72" value="移动节点设置为下一个节点" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1446.25" y="2960" width="257.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-78" target="trLXYf26ftDSueT9GZZE-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-78" value="清除事件标志位" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1472.5" y="3100" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-80" target="trLXYf26ftDSueT9GZZE-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-80" value="恢复调度器" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="3240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="trLXYf26ftDSueT9GZZE-82" target="trLXYf26ftDSueT9GZZE-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-82" value="返回设置事件组的位" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1472.5" y="3380" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trLXYf26ftDSueT9GZZE-84" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="3510" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
