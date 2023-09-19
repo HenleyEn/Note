@@ -157,12 +157,14 @@
   },
   "active": "2069a02520703ce2",
   "lastOpenFiles": [
+    "02. FreeRTOS/07. 任务通知.md",
+    "03. FreeRTOS内部机制/06. 任务通知.md",
     "03. FreeRTOS内部机制/05. 事件组.md",
+    "00. 工作计划/未命名看板.md",
     "images/发送互斥量流程.png",
     "03. FreeRTOS内部机制/04. 互斥量.md",
     "images/创建事件组.png",
     "draw.io/创建事件组.drawio",
-    "00. 工作计划/未命名看板.md",
     "01. 零碎知识/20230913_git_commit规范.md",
     "00. 工作计划/未命名.md",
     "01. 零碎知识/20230911_git&vscode.md",
@@ -202,7 +204,6 @@
     "00. FreeRTOS移植",
     "03. FreeRTOS内部机制/01. Task.md",
     "Excalidraw/Drawing 2023-07-31 16.10.33.excalidraw.md",
-    "2023-07-31.md",
     "未命名.canvas",
     "Untitled.canvas"
   ]
