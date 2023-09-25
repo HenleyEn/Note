@@ -11,9 +11,11 @@
             "id": "2069a02520703ce2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00. 工作计划/未命名看板.md"
+                "file": "06.mqtt物联网/01_mqtt建立连接.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. 工作计划/未命名看板.md",
+                "file": "06.mqtt物联网/01_mqtt建立连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. 工作计划/未命名看板.md",
+                "file": "06.mqtt物联网/01_mqtt建立连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. 工作计划/未命名看板.md"
+                "file": "06.mqtt物联网/01_mqtt建立连接.md"
               }
             }
           },
@@ -157,10 +159,14 @@
   },
   "active": "2069a02520703ce2",
   "lastOpenFiles": [
+    "06.mqtt物联网/02.esp8266.md",
+    "06.mqtt物联网/00_20230710_mqtt概况.md",
+    "06.mqtt物联网/01_mqtt建立连接.md",
+    "01. 零碎知识/20230627_STM32CubeMX_创建工程.md",
+    "00. 工作计划/未命名看板.md",
     "02. FreeRTOS/07. 任务通知.md",
     "03. FreeRTOS内部机制/06. 任务通知.md",
     "03. FreeRTOS内部机制/05. 事件组.md",
-    "00. 工作计划/未命名看板.md",
     "images/发送互斥量流程.png",
     "03. FreeRTOS内部机制/04. 互斥量.md",
     "images/创建事件组.png",
@@ -196,14 +202,10 @@
     "01. 零碎知识/20230724_环形缓冲区.md",
     "01. 零碎知识/20230615_技巧.md",
     "01. 零碎知识/20230607_汇编，局部全局变量，栈.md",
-    "04. STM32/ADC.md",
     "00. 工作计划",
-    "02. FreeRTOS/01. Task.md",
     "零碎知识/未命名.canvas",
     "00. FreeRTOS移植/images",
     "00. FreeRTOS移植",
-    "03. FreeRTOS内部机制/01. Task.md",
-    "Excalidraw/Drawing 2023-07-31 16.10.33.excalidraw.md",
     "未命名.canvas",
     "Untitled.canvas"
   ]
