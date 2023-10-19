@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.mqtt物联网/01_mqtt建立连接.md",
+                "file": "01. 零碎知识/20230505_watch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.mqtt物联网/01_mqtt建立连接.md",
+                "file": "01. 零碎知识/20230505_watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.mqtt物联网/01_mqtt建立连接.md",
+                "file": "01. 零碎知识/20230505_watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.mqtt物联网/01_mqtt建立连接.md"
+                "file": "01. 零碎知识/20230505_watch.md"
               }
             }
           },
@@ -159,13 +159,16 @@
   },
   "active": "2069a02520703ce2",
   "lastOpenFiles": [
+    "03. FreeRTOS内部机制/06. 任务通知.md",
+    "README.md",
+    "01. 零碎知识/20230724_环形缓冲区.md",
+    "01. 零碎知识/20230505_watch.md",
+    "06.mqtt物联网/01_mqtt建立连接.md",
     "06.mqtt物联网/02.esp8266.md",
     "06.mqtt物联网/00_20230710_mqtt概况.md",
-    "06.mqtt物联网/01_mqtt建立连接.md",
     "01. 零碎知识/20230627_STM32CubeMX_创建工程.md",
     "00. 工作计划/未命名看板.md",
     "02. FreeRTOS/07. 任务通知.md",
-    "03. FreeRTOS内部机制/06. 任务通知.md",
     "03. FreeRTOS内部机制/05. 事件组.md",
     "images/发送互斥量流程.png",
     "03. FreeRTOS内部机制/04. 互斥量.md",
@@ -199,9 +202,6 @@
     "03. FreeRTOS内部机制/写队列流程.md",
     "Excalidraw/读队列流程.md",
     "Excalidraw",
-    "01. 零碎知识/20230724_环形缓冲区.md",
-    "01. 零碎知识/20230615_技巧.md",
-    "01. 零碎知识/20230607_汇编，局部全局变量，栈.md",
     "00. 工作计划",
     "零碎知识/未命名.canvas",
     "00. FreeRTOS移植/images",
