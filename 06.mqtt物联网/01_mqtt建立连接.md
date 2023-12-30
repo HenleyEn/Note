@@ -10,3 +10,12 @@
 
 ![image-20230925235459980](../images/image-20230925235459980.png)
 
+## 3、需要补充的mqtt函数
+
+```c
+platform_net_socket_connect
+platform_net_socket_close
+platform_net_socket_recv_timeout
+platform_net_socket_write_timeout
+```
+
