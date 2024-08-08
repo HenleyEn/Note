@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="pwynU2H1yq3AJXYQGxQ-">
-    <mxGraphModel dx="844" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1231" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-125" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1920" width="500" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-145" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1990" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="195" y="2170" width="480" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="890" width="1010" height="690" as="geometry" />
         </mxCell>
@@ -43,7 +52,7 @@
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-67" value="ADC" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1390" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;硬件驱动层&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;硬件驱动层&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="960" y="1370" width="80" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-89" value="" style="group;rounded=1;shadow=1;" vertex="1" connectable="0" parent="1">
@@ -91,23 +100,23 @@
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-73" value="NDIR传感器模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
           <mxGeometry x="680" y="10" width="70" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-88" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;功能模块层&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#d0cee2;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-89">
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-88" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;功能模块层&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#d0cee2;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-89">
           <mxGeometry x="800" y="10" width="80" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-124" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;业务逻辑层&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#bac8d3;" vertex="1" parent="1">
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-124" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;业务逻辑层&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#bac8d3;" vertex="1" parent="1">
           <mxGeometry x="960" y="1000" width="80" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1000" width="780" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-48" value="文件系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1017" width="120" height="140" as="geometry" />
+          <mxGeometry x="185" y="1017.5" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-49" value="显示系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1017" width="120" height="140" as="geometry" />
+          <mxGeometry x="320" y="1017.5" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-50" value="TCP/IP" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="457.5" y="1017" width="115" height="140" as="geometry" />
+          <mxGeometry x="457.5" y="1017.5" width="115" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-51" value="传感器通信系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="1017.5" width="120" height="140" as="geometry" />
@@ -118,38 +127,53 @@
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-80" value="OTA在线升级" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="1017.5" width="100" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="2040" width="430" height="400" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-126" value="MCU" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2250" width="390" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-126" value="MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2370" width="390" height="60" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-127" value="I2C" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2181" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-127" value="I2C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2290" width="120" height="60" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-128" value="SPI" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="2181" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-128" value="SPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="2290" width="120" height="60" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-130" value="ADC" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2181" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-129" value="EEPROM模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2210" width="120" height="60" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-133" value="自检校准系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-130" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="2290" width="120" height="60" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-134" value="传感器检测系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-132" value="气体传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="2210" width="120" height="60" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-135" value="对外通信系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-133" value="自检校准系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2130" width="120" height="60" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-136" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1930" width="480" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-134" value="传感器检测系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="2130" width="120" height="60" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-137" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;硬件驱动层&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2180" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-135" value="对外通信系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="2130" width="120" height="60" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-140" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;业务逻辑层&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#b0e3e6;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2000" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-136" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2060" width="390" height="60" as="geometry" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-146" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="195" y="2080" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-144" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-146">
+          <mxGeometry width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-129" value="EEPROM模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-146">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-132" value="气体传感器" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-146">
+          <mxGeometry x="145" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-138" value="通信协议模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-146">
+          <mxGeometry x="280" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-139" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;功能模块层&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-146">
+          <mxGeometry x="410" y="10" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
