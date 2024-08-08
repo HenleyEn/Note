@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="pwynU2H1yq3AJXYQGxQ-">
-    <mxGraphModel dx="1264" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1053" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,16 +119,16 @@
           <mxGeometry x="170" y="930" width="780" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-48" value="文件系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="945" width="130" height="140" as="geometry" />
+          <mxGeometry x="190" y="947" width="90" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-49" value="显示系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="945" width="130" height="140" as="geometry" />
+          <mxGeometry x="298" y="947" width="90" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-50" value="TCP/IP" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="945" width="120" height="140" as="geometry" />
+          <mxGeometry x="407" y="947" width="90" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-51" value="传感器通信系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="945" width="110" height="140" as="geometry" />
+          <mxGeometry x="510" y="947" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-52" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="860" width="780" height="60" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="970" y="860" width="70" height="580" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-57" value="自检校准系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="945" width="120" height="140" as="geometry" />
+          <mxGeometry x="623" y="947" width="90" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-59" value="LED报警模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1120" width="50" height="120" as="geometry" />
@@ -176,10 +176,13 @@
           <mxGeometry x="850" y="1120" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-78" value="..." style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="950" width="50" height="135" as="geometry" />
+          <mxGeometry x="860" y="949.5" width="50" height="135" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="1600" width="840" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-80" value="OTA在线升级" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="947" width="90" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
