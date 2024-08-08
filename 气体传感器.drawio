@@ -119,7 +119,7 @@
           <mxGeometry x="730" y="1017.5" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1890" width="530" height="570" as="geometry" />
+          <mxGeometry x="180" y="2040" width="430" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-126" value="MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="2370" width="390" height="60" as="geometry" />
@@ -128,16 +128,28 @@
           <mxGeometry x="200" y="2290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-128" value="SPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="2290" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="2290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-129" value="EEPROM模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="2210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-130" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="2290" width="120" height="60" as="geometry" />
+          <mxGeometry x="335" y="2290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-132" value="气体传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="2210" width="120" height="60" as="geometry" />
+          <mxGeometry x="335" y="2210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-133" value="自检校准系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-134" value="传感器检测系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-135" value="通信系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-136" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2060" width="390" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
