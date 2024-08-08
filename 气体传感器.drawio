@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="880" width="1010" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="980" width="890" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="60" width="790" height="600" as="geometry" />
         </mxCell>
@@ -88,101 +94,116 @@
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-30" value="继电器报警模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="340" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="840" width="910" height="620" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-32" value="MCU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1400" width="780" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1260" width="780" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-34" value="GPIO" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1280" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-35" value="I2C" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1280" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-36" value="SPI" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1280" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-37" value="PWM" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1280" width="60" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-38" value="USART" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1280" width="70" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1110" width="780" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="930" width="780" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-48" value="文件系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="947" width="90" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-49" value="显示系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="298" y="947" width="90" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-50" value="TCP/IP" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="947" width="90" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-51" value="传感器通信系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="947" width="100" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-52" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="860" width="780" height="60" as="geometry" />
+          <mxGeometry x="160" y="900" width="890" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-55" value="RTOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="860" width="70" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-57" value="自检校准系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="623" y="947" width="90" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-59" value="LED报警模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1120" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-60" value="KEY模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1120" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-61" value="继电器报警模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1120" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-65" value="RTC模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1120" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-66" value="电流故障输出模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1120" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-67" value="ADC" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1280" width="60" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-68" value="显示模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1120" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-69" value="NorFlash模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1120" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-70" value="POE模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1120" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-71" value="电化学传感器模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1120" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-72" value="压差传感器模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1120" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-73" value="NOIR传感器模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1120" width="70" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-FcbRnMZewdZYJsf3xK-78" value="..." style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="949.5" width="50" height="135" as="geometry" />
+          <mxGeometry x="1070" y="900" width="70" height="660" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1600" width="840" height="410" as="geometry" />
+          <mxGeometry x="130" y="1760" width="840" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1360" width="890" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-32" value="MCU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1510" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1370" width="780" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-34" value="GPIO" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1390" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-35" value="I2C" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1390" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-36" value="SPI" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1390" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-37" value="PWM" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1390" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-38" value="USART" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1390" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-67" value="ADC" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1390" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-84" value="硬件驱动层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1370" width="80" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-89" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="1190" width="890" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-89">
+          <mxGeometry width="890" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-86" value="" style="group" vertex="1" connectable="0" parent="Z-FcbRnMZewdZYJsf3xK-89">
+          <mxGeometry x="10" y="10" width="780" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry width="780" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-59" value="LED报警模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="10" y="10" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-60" value="KEY模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="330" y="10" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-61" value="继电器报警模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="70" y="10" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-65" value="RTC模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="140" y="10" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-66" value="电流故障输出模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="200" y="10" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-68" value="显示模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="260" y="10" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-69" value="NorFlash模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="410" y="10" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-70" value="POE模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="470" y="10" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-71" value="电化学传感器模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="530" y="10" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-72" value="压差传感器模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="600" y="10" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-73" value="NDIR传感器模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-86">
+          <mxGeometry x="680" y="10" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-88" value="功能模块层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z-FcbRnMZewdZYJsf3xK-89">
+          <mxGeometry x="800" y="10" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-124" value="业务逻辑层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1000" width="80" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1000" width="780" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-48" value="文件系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1017" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-49" value="显示系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1017" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-50" value="TCP/IP" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="1017" width="115" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-51" value="传感器通信系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1017.5" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-FcbRnMZewdZYJsf3xK-78" value="..." style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1017.5" width="80" height="140.5" as="geometry" />
         </mxCell>
         <mxCell id="Z-FcbRnMZewdZYJsf3xK-80" value="OTA在线升级" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="732" y="947" width="90" height="140" as="geometry" />
+          <mxGeometry x="730" y="1017.5" width="100" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
