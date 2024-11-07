@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.15">
   <diagram name="第 1 页" id="VBYefRN1_Q4a0DNFFzs_">
-    <mxGraphModel dx="1647" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,48 +128,48 @@
         <mxCell id="90yD588Tg5mHqKN5T0L6-35" value="ulog_output()嵌套" style="whiteSpace=wrap;html=1;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-3" value="红外模块1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-3" value="红外模块1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="700" y="1470" width="340" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5xxGOTNsoSL2lDNkgLA-4">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g5xxGOTNsoSL2lDNkgLA-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="1535.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-4" value="发送头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-4" value="发送头" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1470" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1600" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-6" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-6" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="995" y="1610" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-7" value="data" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-7" value="data" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="995" y="1650" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-8" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-8" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="995" y="1690" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-9" value="接收部分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-9" value="接收部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1600" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1560" width="60" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-11" value="TX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-11" value="TX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="715" y="1610" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-12" value="RX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-12" value="RX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="715" y="1650" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-13" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-13" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="715" y="1690" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-14" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-14" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="715" y="1570" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5xxGOTNsoSL2lDNkgLA-20" target="g5xxGOTNsoSL2lDNkgLA-31">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g5xxGOTNsoSL2lDNkgLA-20" target="g5xxGOTNsoSL2lDNkgLA-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="1600" />
@@ -177,16 +177,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="1470" width="120" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-21" value="USB TO TTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-21" value="USB TO TTL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="1560" width="60" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5xxGOTNsoSL2lDNkgLA-23" target="g5xxGOTNsoSL2lDNkgLA-12">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g5xxGOTNsoSL2lDNkgLA-23" target="g5xxGOTNsoSL2lDNkgLA-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="1620" />
@@ -194,85 +194,85 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-23" value="TX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-23" value="TX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="585" y="1610" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-24" value="RX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-24" value="RX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="585" y="1650" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-25" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-25" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="585" y="1690" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-26" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-26" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="585" y="1570" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-31" value="PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-31" value="PC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="1840" width="390" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.984;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g5xxGOTNsoSL2lDNkgLA-11" target="g5xxGOTNsoSL2lDNkgLA-24">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.984;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="g5xxGOTNsoSL2lDNkgLA-11" target="g5xxGOTNsoSL2lDNkgLA-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-56" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-56" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1120" y="1280" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-15" value="UUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-56">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-15" value="UUT" style="rounded=0;whiteSpace=wrap;html=1;" parent="g5xxGOTNsoSL2lDNkgLA-56" vertex="1">
           <mxGeometry width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-56">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="g5xxGOTNsoSL2lDNkgLA-56" vertex="1">
           <mxGeometry y="61.81818181818182" width="57.599999999999994" height="98.18181818181819" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-17" value="IR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-56">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-17" value="IR" style="rounded=0;whiteSpace=wrap;html=1;" parent="g5xxGOTNsoSL2lDNkgLA-56" vertex="1">
           <mxGeometry y="58.18181818181817" width="57.599999999999994" height="36.36363636363636" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-18" value="TP18" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-56">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-18" value="TP18" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="g5xxGOTNsoSL2lDNkgLA-56" vertex="1">
           <mxGeometry x="14.399999999999999" y="109.0909090909091" width="16.95584415584415" height="16.95584415584415" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-42" value="红外模块2" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;container=0;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-42" value="红外模块2" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1470" width="340" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-43" value="发送头" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-43" value="发送头" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1600" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-57" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-57" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1120" y="1470" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-44" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-57">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-44" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="g5xxGOTNsoSL2lDNkgLA-57" vertex="1">
           <mxGeometry width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-45" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-57">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-45" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" parent="g5xxGOTNsoSL2lDNkgLA-57" vertex="1">
           <mxGeometry x="75" y="10" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-46" value="data" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-57">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-46" value="data" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" parent="g5xxGOTNsoSL2lDNkgLA-57" vertex="1">
           <mxGeometry x="75" y="50" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-47" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-57">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-47" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" parent="g5xxGOTNsoSL2lDNkgLA-57" vertex="1">
           <mxGeometry x="75" y="90" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-48" value="接收部分" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-57">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-48" value="接收部分" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="g5xxGOTNsoSL2lDNkgLA-57" vertex="1">
           <mxGeometry width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-58" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-58" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1400" y="1560" width="60" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-49" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-58">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-49" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="g5xxGOTNsoSL2lDNkgLA-58" vertex="1">
           <mxGeometry width="60" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-50" value="TX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-58">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-50" value="TX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" parent="g5xxGOTNsoSL2lDNkgLA-58" vertex="1">
           <mxGeometry x="15" y="50" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-51" value="RX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-58">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-51" value="RX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" parent="g5xxGOTNsoSL2lDNkgLA-58" vertex="1">
           <mxGeometry x="15" y="90" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-52" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-58">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-52" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" parent="g5xxGOTNsoSL2lDNkgLA-58" vertex="1">
           <mxGeometry x="15" y="130" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-53" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="g5xxGOTNsoSL2lDNkgLA-58">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-53" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" parent="g5xxGOTNsoSL2lDNkgLA-58" vertex="1">
           <mxGeometry x="15" y="10" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-59" value="1. 学习任意红外数据（FA FD 01 xx DF），并获得正确反馈；&lt;div&gt;2. 读取指定通道数据（FA FD 06 xx DF + 230字节）；&lt;br&gt;&lt;div&gt;3. 通过指定通道进行发射（FA FD 02 xx DF），获得正确反馈；&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-59" value="1. 学习任意红外数据（FA FD 01 xx DF），并获得正确反馈；&lt;div&gt;2. 读取指定通道数据（FA FD 06 xx DF + 230字节）；&lt;br&gt;&lt;div&gt;3. 通过指定通道进行发射（FA FD 02 xx DF），获得正确反馈；&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="1750" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g5xxGOTNsoSL2lDNkgLA-46" target="g5xxGOTNsoSL2lDNkgLA-18">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="g5xxGOTNsoSL2lDNkgLA-46" target="g5xxGOTNsoSL2lDNkgLA-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1310" y="1535" />
@@ -281,10 +281,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-62" value="1. 进入学习模式，学习由&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;红外模块1&lt;/span&gt;发送的数据，并获得正确反馈；&lt;div&gt;2. 读取指定通道数据；&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-62" value="1. 进入学习模式，学习由&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;红外模块1&lt;/span&gt;发送的数据，并获得正确反馈；&lt;div&gt;2. 读取指定通道数据；&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1125" y="1740" width="375" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5xxGOTNsoSL2lDNkgLA-63" target="g5xxGOTNsoSL2lDNkgLA-31">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g5xxGOTNsoSL2lDNkgLA-63" target="g5xxGOTNsoSL2lDNkgLA-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1720" y="1600" />
@@ -292,34 +292,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1470" width="120" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-64" value="USB TO TTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-64" value="USB TO TTL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1560" width="60" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5xxGOTNsoSL2lDNkgLA-66" target="g5xxGOTNsoSL2lDNkgLA-51">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g5xxGOTNsoSL2lDNkgLA-66" target="g5xxGOTNsoSL2lDNkgLA-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-66" value="TX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-66" value="TX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1535" y="1610" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-67" value="RX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-67" value="RX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1535" y="1650" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-68" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-68" value="VCC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1535" y="1690" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-69" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-69" value="GND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1535" y="1570" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5xxGOTNsoSL2lDNkgLA-50" target="g5xxGOTNsoSL2lDNkgLA-67">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g5xxGOTNsoSL2lDNkgLA-50" target="g5xxGOTNsoSL2lDNkgLA-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g5xxGOTNsoSL2lDNkgLA-74" value="&lt;div&gt;1. 收到来自红外模块的响应数据；&lt;/div&gt;2. 比对红外模块1和红外模块2读出的通道数据是否相同；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g5xxGOTNsoSL2lDNkgLA-74" value="&lt;div&gt;1. 收到来自红外模块的响应数据；&lt;/div&gt;2. 比对红外模块1和红外模块2读出的通道数据是否相同；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1960" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
