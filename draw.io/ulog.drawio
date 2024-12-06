@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="第 1 页" id="VBYefRN1_Q4a0DNFFzs_">
-    <mxGraphModel dx="941" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="915" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,6 +321,51 @@
         </mxCell>
         <mxCell id="g5xxGOTNsoSL2lDNkgLA-74" value="&lt;div&gt;1. 收到来自红外模块的响应数据；&lt;/div&gt;2. 比对红外模块1和红外模块2读出的通道数据是否相同；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1960" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2860" width="370" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="2860" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-4" value="桌面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="2880" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_3BvQJMOsZDoT6vy0jY-5" target="r_3BvQJMOsZDoT6vy0jY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-5" value="标气设备&lt;div&gt;NH3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="2930" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_3BvQJMOsZDoT6vy0jY-6" target="r_3BvQJMOsZDoT6vy0jY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-6" value="需测试调试的产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="3030" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-9" value="排风口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="3150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-12" value="测试区域&lt;div&gt;other&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="2970" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2860" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r_3BvQJMOsZDoT6vy0jY-14" target="r_3BvQJMOsZDoT6vy0jY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-14" value="标气设备&lt;div&gt;SO2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2930" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_3BvQJMOsZDoT6vy0jY-15" target="r_3BvQJMOsZDoT6vy0jY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-15" value="需测试调试的产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="3030" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_3BvQJMOsZDoT6vy0jY-17" value="桌面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="872.5" y="2870" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
