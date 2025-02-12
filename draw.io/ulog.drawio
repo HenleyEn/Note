@@ -666,8 +666,8 @@
         <mxCell id="JgEoSfCOB_G8z2NqM_oq-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="3530" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JgEoSfCOB_G8z2NqM_oq-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;判断是响应事件还是处理事件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="3530" width="80" height="30" as="geometry" />
+        <mxCell id="JgEoSfCOB_G8z2NqM_oq-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;事件分发&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="3530" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JgEoSfCOB_G8z2NqM_oq-19" value="响应事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="3560" width="120" height="30" as="geometry" />
@@ -710,6 +710,12 @@
         </mxCell>
         <mxCell id="JgEoSfCOB_G8z2NqM_oq-38" value="其他组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1083" y="3360" width="87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JgEoSfCOB_G8z2NqM_oq-40" value="事件上报层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="3335" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgEoSfCOB_G8z2NqM_oq-41" value="事件收集分发层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="3620" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
